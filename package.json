@@ -1,0 +1,25 @@
+{
+  "name": "eventstopper",
+  "version": "1.0.0",
+  "description": "stops browser events default action and bubbeling cross browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serapath/eventstopper.git"
+  },
+  "keywords": [
+    "event",
+    "stopPropagation",
+    "preventDefault",
+    "cancelBubble"
+  ],
+  "author": "serapath <dev@serapath.de> (http://www.github.com/serapath)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serapath/eventstopper/issues"
+  },
+  "homepage": "https://github.com/serapath/eventstopper"
+}
